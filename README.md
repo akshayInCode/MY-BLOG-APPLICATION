@@ -1,4 +1,4 @@
-Developed a MyBlog  app  having two sections one is Post  and other is Comment section, The Admin has only permission to Create, delete and update the post  whereas the user can only read the post. 
+Developed a MY BLOG APPLICATION  having two sections one is Post  and other is Comment section, The Admin has only permission to Create, delete and update the post  whereas the user can only read the post. 
 Different Layers have been implemented in this project like Entity, DTO, Repository,Controller,Service Layer,Exception Layer and application.properties for linking the database along with HQL queries.
 Implemented  Stream Api in the project in PostServiceImpl Layer.
 Implemented Spring Validation along with Pagination and Sorting.
